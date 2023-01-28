@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "easylink-url-shorten",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

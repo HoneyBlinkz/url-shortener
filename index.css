@@ -1,0 +1,44 @@
+body {
+   
+    padding: 0 10px;
+   background-image:url('https://img.freepik.com/free-vector/abstract-background-theme_23-2148474314.jpg?w=2000');
+  
+ 
+        }
+.background-color {
+    color: hsl(50, 33%, 25%);
+}
+
+.domain-icon {
+    width: 60px;
+}
+
+.line-icon {
+    width: 60px;
+}
+
+.hours-icon {
+    width: 60px;
+}
+
+.social-media {
+    width: 40px;
+}
+
+.btn {
+    color:green
+}
+.container {
+	width: 91.666667%;
+ 
+     height:auto;
+			margin: 0 auto;
+			background-color:#094431;}
+
+  .card {
+  background-color:#0f1b75;
+     margin-bottom: 15px;
+    display: grid;
+    align-items: center;
+}
+
